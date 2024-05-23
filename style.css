@@ -1,0 +1,13 @@
+#snake{
+    display: flex;
+   margin: 0 auto;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+*{
+    background-color: green;
+}
